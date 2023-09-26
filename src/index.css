@@ -1,0 +1,9 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base{
+  button{
+    @apply border p-10 bg-red-400
+  }
+}
