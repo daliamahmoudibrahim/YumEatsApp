@@ -4,13 +4,13 @@ import {RxDotFilled} from 'react-icons/rx'
 const Featured = () => {
     const sliders = [
       {
-        url: 'https://res.cloudinary.com/ehizeex-shop/image/upload/v1672672076/NetflixApp/burger_emxbtv.jpg',
+        url: 'https://drive.google.com/file/d/1cIS0M6xI6yEobbGyfT-CgAQ9_W9llluj/view?usp=sharing',
       },
       {
-        url: 'https://res.cloudinary.com/ehizeex-shop/image/upload/v1672672452/NetflixApp/pizza_osjb4f.jpg',
+        url: 'https://drive.google.com/drive/folders/1T-Qf8d8F256ofMiWN8xcl9sRImbKcwz4?usp=sharing',
       },
       {
-        url: 'https://res.cloudinary.com/ehizeex-shop/image/upload/v1672672612/NetflixApp/ric_a4ewxo.jpg',
+        url: 'https://drive.google.com/file/d/1Viur16482Ady4d3vmt7Wr41C3s_0pa0J/view?usp=drive_link',
       },
     ]
     const [currentIndex , setCurrentIndex]= useState(0);
