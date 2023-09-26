@@ -3,69 +3,69 @@ export const topPicks = [
     id: 1,
     title: 'shawarma',
     price: '$850',
-    img: 'https://res.cloudinary.com/ehizeex-shop/image/upload/v1672323737/NetflixApp/chiken_shawarma_c0ysna.jpg'
+    img: 'https://i.imgur.com/lPNUJPq.jpg',
   },
   {
     id: 2,
     title: 'fruite juice',
     price: '$900',
-    img: 'https://res.cloudinary.com/ehizeex-shop/image/upload/v1672329939/NetflixApp/fruite_juice_du7uqy.jpg',
+    img: 'https://i.imgur.com/xDD57y9.jpg',
   },
   {
     id: 3,
     title: 'yogurt parfaite',
     price: '$450',
-    img: "https://res.cloudinary.com/ehizeex-shop/image/upload/v1672329944/NetflixApp/yogurt_parfait_kt8b5f.jpg"
+    img: 'https://i.imgur.com/XMGciI0.jpg',
   },
   {
     id: 4,
     title: 'orange juice',
     price: '$420',
-    img: 'https://res.cloudinary.com/ehizeex-shop/image/upload/v1672329938/NetflixApp/orangejuice_s4mdbi.webp'
+    img: 'https://i.imgur.com/I92sNIk.jpg',
   },
   {
     id: 5,
     title: 'egg & plantain',
     price: '$700',
-    img: 'https://res.cloudinary.com/ehizeex-shop/image/upload/v1672331290/NetflixApp/edd_and_plantain_rey7l4.jpg',
+    img: 'https://i.imgur.com/COovWau.jpg',
   },
   {
     id: 6,
     title: 'tilapia fish',
     price: '$900',
-    img: 'https://res.cloudinary.com/ehizeex-shop/image/upload/v1672331305/NetflixApp/tilapia_fish_g0ozkn.jpg'
+    img: 'https://i.imgur.com/8HaG5zy.jpg',
   },
   {
     id: 7,
     title: 'jollof rice',
     price: '$150',
-    img: 'https://res.cloudinary.com/ehizeex-shop/image/upload/v1672332323/NetflixApp/jollof_rice_gbzosf.webp',
+    img: 'https://i.imgur.com/FJyQLDw.jpg',
   },
   {
     id: 8,
     title: 'chiken burger',
     price: '$300',
-    img: 'https://res.cloudinary.com/ehizeex-shop/image/upload/v1672332323/NetflixApp/chiken_burger_ncsmeh.webp',
+    img: 'https://i.imgur.com/7f2Oi9z.jpg',
   },
   {
     id: 9,
     title: 'egg and plantain',
     price: '$500',
-    img: 'https://res.cloudinary.com/ehizeex-shop/image/upload/v1672331290/NetflixApp/edd_and_plantain_rey7l4.jpg',
+    img: 'https://i.imgur.com/URYCJcu.jpg',
   },
   {
     id: 10,
     title: 'African Salad',
     price: '$200',
-    img: 'https://res.cloudinary.com/ehizeex-shop/image/upload/v1672323870/NetflixApp/African_Salad_s7vgxn.png',
+    img: 'https://i.imgur.com/MvPp2CN.png',
   },
   {
     id: 11,
     title: 'chinese pizza',
     price: '$900',
-    img: 'https://res.cloudinary.com/ehizeex-shop/image/upload/v1672324456/NetflixApp/chinese_pizza_kgnbo1.jpg',
+    img: 'https://i.imgur.com/l6Qaiyb.jpg',
   },
-];
+]
 
 
 export const mealData = [
