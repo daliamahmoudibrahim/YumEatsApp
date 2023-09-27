@@ -73,100 +73,87 @@ export const mealData = [
     id: 5,
     name: 'cheeseless pizza',
     category: 'pizza',
-    image:
-      'https://res.cloudinary.com/ehizeex-shop/image/upload/v1672324456/NetflixApp/cheeseless_pizza_bkuecz.jpg',
+    image: 'https://i.imgur.com/ZHUoY5Z.jpg',
     price: '$200',
   },
   {
     id: 6,
     name: 'Supreme Pizza',
     category: 'pizza',
-    image:
-      'https://res.cloudinary.com/ehizeex-shop/image/upload/v1672324455/NetflixApp/Supreme_Pizza_jtvkj8.jpg',
+    image: 'https://i.imgur.com/i97H7LX.jpg',
     price: '$300',
   },
   {
     id: 7,
     name: 'pepperoni pizza',
     category: 'pizza',
-    image:
-      'https://res.cloudinary.com/ehizeex-shop/image/upload/v1672324456/NetflixApp/pepperoni_pizza_axwdat.jpg',
+    image: 'https://i.imgur.com/Tob34SR.jpg',
     price: '$100',
   },
   {
     id: 8,
     name: 'Cheese Pizza',
     category: 'pizza',
-    image:
-      'https://res.cloudinary.com/ehizeex-shop/image/upload/v1672324456/NetflixApp/chinese_pizza_kgnbo1.jpg',
+    image: 'https://i.imgur.com/d57LNqg.jpg',
     price: '$140',
   },
   {
     id: 9,
     name: 'African Salad',
     category: 'Salad',
-    image:
-      'https://res.cloudinary.com/ehizeex-shop/image/upload/v1672323870/NetflixApp/African_Salad_s7vgxn.png',
+    image: 'https://i.imgur.com/A1aR14r.png',
     price: '$140',
   },
   {
     id: 10,
     name: 'Kale Salad',
     category: 'salad',
-    image:
-      'https://res.cloudinary.com/ehizeex-shop/image/upload/v1672323860/NetflixApp/kale_salad_ogune3.jpg',
+    image: 'https://i.imgur.com/uCt1ciX.jpg',
     price: '$300',
   },
   {
     id: 11,
     name: 'Ceasar Salad',
     category: 'salad',
-    image:
-      'https://res.cloudinary.com/ehizeex-shop/image/upload/v1672323859/NetflixApp/caesar-salad-with-tuna-30216-1_noflfd.jpg',
+    image: 'https://i.imgur.com/qJTeytN.jpg',
     price: '$300',
   },
   {
     id: 12,
     name: 'Loaded Salad',
     category: 'salad',
-    image:
-      'https://res.cloudinary.com/ehizeex-shop/image/upload/v1672323860/NetflixApp/loaded_salad_qq5jup.jpg',
+    image: 'https://i.imgur.com/0ZmaCvy.jpg',
     price: '$200',
   },
   {
     id: 13,
     name: 'chiken_shawarma',
     category: 'chicken',
-    image:
-      'https://res.cloudinary.com/ehizeex-shop/image/upload/v1672323737/NetflixApp/chiken_shawarma_c0ysna.jpg',
+    image: 'https://i.imgur.com/nEEIXEf.jpg',
     price: '$100',
   },
   {
     id: 14,
     name: 'Wings',
     category: 'chicken',
-    image:
-      'https://res.cloudinary.com/ehizeex-shop/image/upload/v1672322922/NetflixApp/chicken-wings_lv3zc9.jpg',
+    image: 'https://i.imgur.com/HVOKvfQ.jpg',
     price: '$100',
   },
   {
     id: 15,
     name: 'Roasted Chicken',
     category: 'chicken',
-    image:
-      'https://res.cloudinary.com/ehizeex-shop/image/upload/v1672322922/NetflixApp/roast-chicken_nrc6r8.jpg',
+    image: 'https://i.imgur.com/XFQa3Hd.jpg',
     price: '$300',
   },
   {
     id: 16,
     name: 'Chicken Tenders',
     category: 'chicken',
-    image:
-      'https://res.cloudinary.com/ehizeex-shop/image/upload/v1672322923/NetflixApp/chicken_tenders_quel6y.jpg',
+    image: 'https://i.imgur.com/X3hVDGa.jpg',
     price: '$100',
   },
-
-];
+]
 
 
 
@@ -174,74 +161,62 @@ export const mealData = [
     {
       id: 1,
       name: 'Burger',
-      image:
-         'https://res.cloudinary.com/ehizeex-shop/image/upload/v1672070207/NetflixApp/burger_logo_hmpqua.png'
+      image: 'https://i.imgur.com/QacnSH2.png',
     },
     {
       id: 2,
       name: 'veg',
-      image:
-        'https://res.cloudinary.com/ehizeex-shop/image/upload/v1672070207/NetflixApp/veg_logo_jvm4qn.png'
+      image: 'https://i.imgur.com/XEe7RsH.png',
     },
     {
       id: 3,
       name: 'Pizza',
-      image:
-        'https://res.cloudinary.com/ehizeex-shop/image/upload/v1672070207/NetflixApp/pizza_logo_dqdqds.png',
+      image: 'https://i.imgur.com/JT3tAbI.png',
     },
     {
       id: 4,
       name: 'Wings',
-      image:
-        'https://res.cloudinary.com/ehizeex-shop/image/upload/v1672070208/NetflixApp/wings_logo_hrn8zl.png'
+      image: 'https://i.imgur.com/QBbZYFG.png',
     },
 
     {
       id: 5,
       name: 'Best Overall',
-      image:
-        'https://res.cloudinary.com/ehizeex-shop/image/upload/v1672070207/NetflixApp/fastfood_logo_v80nbk.png'
+      image: 'https://i.imgur.com/loKAkIU.png',
     },
     {
       id: 6,
       name: 'sharwama',
-      image:
-        'https://res.cloudinary.com/ehizeex-shop/image/upload/v1672070207/NetflixApp/sharwama_logo_st4vg8.png'
+      image: 'https://i.imgur.com/upormJw.png',
     },
     {
       id: 7,
       name: 'resottoa',
-      image:
-        'https://res.cloudinary.com/ehizeex-shop/image/upload/v1672176749/NetflixApp/resotto_logo_uywrr1.png'
+      image: 'https://i.imgur.com/VBF6ehw.png?1',
     },
     {
       id: 8,
       name: 'cake',
-      image:
-        'https://res.cloudinary.com/ehizeex-shop/image/upload/v1672176749/NetflixApp/cake_edpoec.png'
+      image: 'https://i.imgur.com/dsP6vOH.png',
     },
     {
       id: 9,
       name: 'chiken',
-      image:
-        'https://res.cloudinary.com/ehizeex-shop/image/upload/v1672176749/NetflixApp/chiken_logo_ahl2ca.png'
+      image: 'https://i.imgur.com/Gilmi2I.png',
     },
     {
       id: 10,
       name: 'ice cream',
-      image:
-        'https://res.cloudinary.com/ehizeex-shop/image/upload/v1672176749/NetflixApp/ice_cream_logo_hcqcaa.png'
+      image: 'https://i.imgur.com/xDrBdRC.png',
     },
     {
       id: 11,
       name: 'beef',
-      image:
-       'https://res.cloudinary.com/ehizeex-shop/image/upload/v1672176749/NetflixApp/beef_logo_adnidz.png'
+      image: 'https://i.imgur.com/GZGtmWY.png',
     },
     {
       id: 12,
       name: 'apple pie',
-      image:
-        'https://res.cloudinary.com/ehizeex-shop/image/upload/v1672176749/NetflixApp/appple_pie_yxfxpm.png'
+      image: 'https://i.imgur.com/3pNFP7S.png',
     },
-  ];
+  ]
